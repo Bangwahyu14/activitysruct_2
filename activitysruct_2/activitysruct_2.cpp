@@ -7,3 +7,8 @@ struct DetailAlamat {
 };
 
 
+struct Mahasiswa {
+
+};
+
+
