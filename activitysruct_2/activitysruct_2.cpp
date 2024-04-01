@@ -32,4 +32,5 @@ int main() {
 
 	cout << endl;
 	cout << "\n NIM :" << mhs.nim;
+	cout << "\n Nama :" << mhs.nama;
 
