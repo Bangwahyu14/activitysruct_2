@@ -24,3 +24,4 @@ int main() {
 	cout << "Alamat Mahasiswa : " << endl;
 	cout << "\t Nama Desa : ";
 	cin >> mhs.alamat.desa;
+	cout << "\t Nama kota : ";
